@@ -52,15 +52,9 @@ buddy-talk/
 ├── src/
 │   ├── assets/        # Images, fonts, etc.
 │   ├── components/    # Reusable components
-│   ├── hooks/         # Custom React hooks
 │   ├── features/      # Business features components
 │   ├── graphql/       # GraphQL schema
-│   ├── pages/         # Page level components
-│   ├── services/      # API services
-│   ├── store/         # State management
 │   ├── interfaces/    # Interface definitions
-│   ├── styles/        # CSS styles
-│   ├── utils/         # Utility functions
 │   ├── App.tsx        # Main App component
 │   └── main.tsx       # Application entry point
 ├── .eslintrc.js       # ESLint configuration
